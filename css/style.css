@@ -1,0 +1,48 @@
+/*myData css*/
+
+/*geraUVM css*/
+/*gera UVM tabs sem bordas .css */
+#tabs { padding: 0px; background: none; border-width: 0px;} 
+#tabs .ui-tabs-nav { padding-left: 0px; background: transparent; border-width: 0px 0px 1px 0px; -moz-border-radius: 0px; -webkit-border-radius: 0px; border-radius: 0px; } 
+
+/*login css*/
+
+#login{background-color: #4d90fe;}
+#user-login{width:35px; height:35px; margin-top: 8px;}
+#user-cad{text-align: center;}
+
+/*floating login css*/
+#email_login{position: relative; text-align: center; width: 80%; margin-left: 10%; margin-right: 10%; top: 10px;}
+#senha_login{position: relative; text-align: center; width: 80%; margin-left: 10%; margin-right: 10%; top: 10px;}
+.dropdown_item{position: relative; text-align: center; width: 80%; margin-left: 10%; margin-right: 10%; top: 10px;}
+#login_button{position: relative;  width: 80%; height: 50px;background-color: #4d90fe; margin-left: 10%; margin-right: 10%; color: white; top: 10px;}
+#logout_button{position: relative;  width: 80%; height: 35px;background-color: orange; margin-left: 10%; margin-right: 10%; color: white; top: 20px;}
+
+.center-text{position: relative; text-align: center;}
+#newProj{position: relative; bottom: 10px;}
+
+#fileName{width: 80%; margin-right: 10%; margin-left: 10%;}
+#fileContent{width: 80%; margin-right: 10%; margin-left: 10%;}
+
+
+#begin-button{position: relative; top: 10px; width: 40%; height: 60px;background-color: #4d90fe;}
+#sq_f{text-align: center;}
+#alert-button{position: relative; top: 25px; text-align: center;}
+#code-input{text-align: center; font-size: 120%;}
+.info-acc{margin-top: 5%; text-align: center;}
+.cad-acc{margin-top: 5%; text-align: center;}
+.img-circular{ width: 120px; height:120px; background-size: cover; border-radius: 100px; -webkit-border-radius: 100px; -moz-border-radius: 100px;}
+.nav-pos{margin-left: 16px; margin-right: 16px;}
+.dropdown-menu-large{margin-left: 16px; margin-right: 16px; padding: 20px 0px; width:15%; height:320%}
+.dropdown-large {  position: static !important;}
+
+
+#beginform{position: relative; top: 10%; left: 15%; right: 15%; height: 500px; width: 70%;-webkit-box-shadow: 0px 0px 13px 0px rgba(50, 50, 50, 0.75);-moz-box-shadow: 0px 0px 13px 0px rgba(50, 50, 50, 0.75);box-shadow: 0px 0px 13px 0px rgba(50, 50, 50, 0.75);border-radius: 20px 20px 20px 20px;background-color: #f7f7f7}
+
+/*iniciarProjeto css */
+#welcomeMessage{position: relative; top: 50px; text-align: center; font-size: 3rem;}
+.newProject{position: relative; top: 100px; width: 80%; left: 10%; height: 130px;background-color: #4d90fe;color: white; font-size: 2rem;}
+#oldProject{position: relative; top: 100px; width: 80%; left: 10%; height: 150px;background-color: #4d90fe;color: white}
+
+
+
